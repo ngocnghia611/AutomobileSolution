@@ -1,0 +1,11 @@
+D:\Visual Studio 2022\AutomobileSolution\AutomobileLibrary\bin\Debug\net8.0\AutomobileLibrary.deps.json
+D:\Visual Studio 2022\AutomobileSolution\AutomobileLibrary\bin\Debug\net8.0\AutomobileLibrary.dll
+D:\Visual Studio 2022\AutomobileSolution\AutomobileLibrary\bin\Debug\net8.0\AutomobileLibrary.pdb
+D:\Visual Studio 2022\AutomobileSolution\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio 2022\AutomobileSolution\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.AssemblyInfoInputs.cache
+D:\Visual Studio 2022\AutomobileSolution\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.AssemblyInfo.cs
+D:\Visual Studio 2022\AutomobileSolution\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2022\AutomobileSolution\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.dll
+D:\Visual Studio 2022\AutomobileSolution\AutomobileLibrary\obj\Debug\net8.0\refint\AutomobileLibrary.dll
+D:\Visual Studio 2022\AutomobileSolution\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.pdb
+D:\Visual Studio 2022\AutomobileSolution\AutomobileLibrary\obj\Debug\net8.0\ref\AutomobileLibrary.dll
